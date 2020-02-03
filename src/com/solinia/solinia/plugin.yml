@@ -1,0 +1,11 @@
+name: Solinia3EntitiesPlugin
+main: com.solinia.solinia.Solinia3EntitiesPlugin
+version: 1.0
+api-version: 1.13
+commands:
+  info:
+    description: Info
+    usage: /info
+    aliases: []
+depend:
+- LibsDisguises
